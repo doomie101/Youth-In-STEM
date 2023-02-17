@@ -1,0 +1,1 @@
+print(" Hello mary \n How are you \n I am fine")
